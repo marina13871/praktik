@@ -1,0 +1,65 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+}
+
+
+
+
+.logo{
+    min-height: 90px;
+    margin-bottom: 10px;
+}
+
+.header{
+    min-height: 90px;
+    
+}
+
+
+.band{
+    background-color:gray;
+}
+
+.sin{
+    max-width: 100%;
+    height: auto;
+    margin-left: 140px;
+    margin-bottom: 100px;
+}
+
+.bands {
+    margin-left: 100px;
+}
+
+.Zag1 {
+    margin-top:30%;
+    margin-bottom:auto;
+}
+
+.maintext {
+    padding: 0;
+    margin: 5%;
+}
+
+p {
+    font-size: large;
+}
+
+.grey{
+    background-color: blueviolet;
+    height: 100%;
+    margin-top:20%;
+    margin-bottom:20%;
+}
+
+.spisok{
+    margin-top:0;
+    margin-bottom:auto;
+    min-height: 100%;
+}
+
+
