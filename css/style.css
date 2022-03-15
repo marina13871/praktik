@@ -17,7 +17,8 @@ body{
 }
 
 .band{
-    background-color:gray;
+    background-color:rgb(160, 160, 160);
+    height: 1px;
 }
 
 .sin{
@@ -25,10 +26,6 @@ body{
     height: auto;
     margin-left: 140px;
     margin-bottom: 100px;
-}
-
-.bands {
-    margin-left: 100px;
 }
 
 .Zag1 {
@@ -46,7 +43,7 @@ p {
 }
 
 .grey{
-    background-color: blueviolet;
+    background-color: rgb(240, 224, 255);
     height: 100%;
     margin-top:20%;
     margin-bottom:20%;
@@ -57,5 +54,6 @@ p {
     margin-bottom:auto;
     min-height: 100%;
 }
+
 
 
