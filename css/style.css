@@ -1,59 +1,32 @@
-*{
-    box-sizing: border-box;
+/* slaid1 */
+
+.logotip{
+    margin-top: 25px;
+    padding-left: 50px;  
 }
 
-body{
-    margin: 0;
+.slaidd{
+    margin-top: 250px;  
+    padding-left: 150px;  
+}
+.zag {
+    margin-top: 33%;
+    padding-left: 80px;
 }
 
-.logo{
-    min-height: 90px;
-    margin-bottom: 10px;
+.sin {
+    text-align: center;
 }
 
-.header{
-    min-height: 90px;
-    
+/* slaid2 */
+
+.slaid22 {
+    margin-top: 10px;  
+    padding-left: 150px;  
 }
 
-.band{
-    background-color:rgb(160, 160, 160);
-    height: 1px;
+.text {
+    margin-top: 50px;  
+    padding-left: 60px;  
+    font-size:larger;
 }
-
-.sin{
-    max-width: 100%;
-    height: auto;
-    margin-left: 140px;
-    margin-bottom: 100px;
-}
-
-.Zag1 {
-    margin-top:30%;
-    margin-bottom:auto;
-}
-
-.maintext {
-    padding: 0;
-    margin: 5%;
-}
-
-p {
-    font-size: large;
-}
-
-.grey{
-    background-color: rgb(240, 224, 255);
-    height: 100%;
-    margin-top:20%;
-    margin-bottom:20%;
-}
-
-.spisok{
-    margin-top:0;
-    margin-bottom:auto;
-    min-height: 100%;
-}
-
-
-
