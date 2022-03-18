@@ -20,7 +20,7 @@
 
 /* slaid2 */
 
-.slaid22 {
+.slaid2 {
     margin-top: 10px;  
     padding-left: 150px;  
 }
@@ -29,4 +29,17 @@
     margin-top: 50px;  
     padding-left: 60px;  
     font-size:larger;
+}
+
+.bands {
+    margin-top: 150px; 
+    background-image: url('../img/bands.jpg');
+    /* background-attachment: fixed;  */
+    /* background-size:contain;  */
+    background-position: right;
+    background-repeat: no-repeat;
+}
+
+.slaid22{
+    margin-bottom: 500px;
 }
