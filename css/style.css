@@ -66,5 +66,26 @@ h4 {
     background-color: rgb(78, 74, 102);
     padding-top: 10px;
     padding-bottom: 10px;
+    text-align: center;
+}
+
+/* slaid 4 */
+
+.slaid4 {
+    margin-top: 100px;  
+    padding-left: 150px;  
+}
+
+.technologies {
+    color: white;
+}
+
+.zagolovki {
+    margin-top: 70px;  
+    text-align: center;
+}
+
+.points {
+    padding-top: 40px;
     
 }
